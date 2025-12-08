@@ -53,7 +53,7 @@ class LinearRegression:
             y_predicted = np.dot(x, self.weights) + self.bias
             loss = y_predicted - y
 
-            # standard gradient
+            # standard gradient (Residual Sum of Squares)
             d_RSS = (1/m) * np.dot(x.T, loss)
             
             # regularized gradient
