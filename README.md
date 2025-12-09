@@ -66,7 +66,7 @@ The dataset used is advertising.csv, which contains the following columns:
 
 - **Linear Modeling**: with visualizing the features and results.
     
-    View the Notebook: [Linear Model](linear_model.py)
+    View the Notebook: [Linear Model](linear_model.ipynb)
 - **Non-Linear Modeling**: Enhancement of the linear model by introducing interaction terms (e.g., TV * Radio) and polynomial features (e.g., TV^2).
 
-    View the Notebook: [None-Linear Model](non_linear_model.py)
+    View the Notebook: [None-Linear Model](non_linear_model.ipynb)
