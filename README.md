@@ -1,6 +1,6 @@
 # Linear Regression - Non-Linear Regression "from Scratch"
 
-This project implements a Linear Regression model algorithms, logic and math from **scratch** (without using machine learning libraries like Scikit-learn for the core algorithm) to predict sales based on advertising budgets for TV, Radio, and Newspaper. It explores Advertising Sales Prediction with Linear Regression - Non-Linear Regression relationships and includes regularization techniques (Lasso and Ridge) to improve model performance.
+This project implements a Linear Regression model algorithms, logic and math from **scratch** (without using machine learning libraries like Scikit-learn for the core algorithm) to predict sales based on advertising budgets for TV, Radio, and Newspaper. It explores Advertising Sales Prediction with Linear Regression - Polynomial Regression relationships and includes regularization techniques (Lasso and Ridge) to improve model performance.
 
 ## Skills and Technologies
 **Machine Learning Foundations**
@@ -67,6 +67,6 @@ The dataset used is advertising.csv, which contains the following columns:
 - **Linear Modeling**: with visualizing the features and results.
     
     View the Notebook: [Linear Model](linear_model.ipynb)
-- **Non-Linear Modeling**: Enhancement of the linear model by introducing interaction terms (e.g., TV * Radio) and polynomial features (e.g., TV^2).
+- **Polynomial Modeling**: Enhancement of the linear model by introducing interaction terms (e.g., TV * Radio) and polynomial features (e.g., TV^2).
 
-    View the Notebook: [None-Linear Model](non_linear_model.ipynb)
+    View the Notebook: [Polynomial Model](polynomial_model.ipynb)
